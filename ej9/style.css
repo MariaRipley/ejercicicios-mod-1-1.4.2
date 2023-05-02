@@ -1,0 +1,30 @@
+body {
+  border: 8px solid black;
+}
+
+.main {
+  margin-top: 106px;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.autor {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
+.p {
+  font-size: 18px;
+  margin-bottom: 27px;
+}
+
+.enlace {
+  display: block;
+  padding: 8px 16px;
+  margin-left: -16px;
+}
