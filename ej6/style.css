@@ -1,0 +1,12 @@
+.div {
+  position: relative;
+}
+
+.div-cookies {
+  height: 100px;
+  width: 100%;
+  background-color: yellow;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
